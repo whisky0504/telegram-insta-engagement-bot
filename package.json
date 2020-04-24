@@ -1,10 +1,10 @@
 {
-    "name": "instagram-engagement-bot",
+    "name": "SpreadLikesBot",
     "version": "0.1.0",
     "description": "InstagramEngagementBot",
     "main": "index.js",
     "author": {
-        "name": "sn0wil"
+        "name": "Whisky"
     },
     "dependencies": {
         "node-telegram-bot-api": "^0.30.0"
